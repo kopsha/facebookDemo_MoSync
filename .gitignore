@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+# Mosync related files
+Output/
+ReleasePackages/
+.mosyncproject.local
